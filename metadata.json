@@ -1,0 +1,6 @@
+{
+  "name": "EDUBLOX CITY BY SITTY",
+  "description": "Petualangan 3D Voxel Interaktif Informatika Kelas X SMA/SMK Bab 2: Perancangan Algoritma & Pengelolaan Data dengan 105 Bank Soal Asli, 4-Player Co-op, dan AI Generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
